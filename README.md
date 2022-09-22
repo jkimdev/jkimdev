@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hire%20me!&fontSize=90)
 
-<div align=left> 
+<div align=center> 
 
-- 👋 ʜɪ, ɪ’ᴍ **ᴊᴀᴇᴍɪɴ ᴋɪᴍ**
-- 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ **ꜱᴡɪꜰᴛᴜɪ**
-- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴋᴛᴏʀ**
-- 💞️ ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ᴄʀᴇᴀᴛɪɴɢ ***8ᴅᴇɢʀᴇᴇꜱ***
-- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [ᴊᴋɪᴍ.ᴅᴇᴠ@ɪᴄʟᴏᴜᴅ.ᴄᴏᴍ](ᴊᴋɪᴍ.ᴅᴇᴠ@ɪᴄʟᴏᴜᴅ.ᴄᴏᴍ)
+<div style="text-align: center;">
+
+👋 ʜɪ, ɪ’ᴍ **ᴊᴀᴇᴍɪɴ ᴋɪᴍ**
+👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ **ꜱᴡɪꜰᴛᴜɪ**  
+🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴋᴛᴏʀ**  
+💞️ ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ᴄʀᴇᴀᴛɪɴɢ ***8ᴅᴇɢʀᴇᴇꜱ***  
+📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [ᴊᴋɪᴍ.ᴅᴇᴠ@ɪᴄʟᴏᴜᴅ.ᴄᴏᴍ](ᴊᴋɪᴍ.ᴅᴇᴠ@ɪᴄʟᴏᴜᴅ.ᴄᴏᴍ)
+</div>
 
 </br>
 
@@ -18,7 +21,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
-</div>
 
 <br>
 
@@ -29,3 +31,5 @@
 **📂 REPOSITORY**
 
 <img  src="https://github-readme-stats.vercel.app/api?username=jkimdev&show_icons=true&theme=jolly"/>
+
+</div>
