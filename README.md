@@ -24,6 +24,6 @@
 
 **📂 REPOSITORY**
 
-Top Languages             |  Repo Status
+Top Languages             |  Stats
 :-------------------------:|:-------------------------:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkimdev&layout=compact"/>|<img src="https://github-readme-stats.vercel.app/api?username=jkimdev&show_icons=true&theme=jolly"/>
