@@ -2,11 +2,11 @@
 
 <div align=left> 
 
-- 👋 Hi, I’m **Jaemin Kim**
-- 👀 I’m interested in **SwiftUI**
-- 🌱 I’m currently learning **Ktor**
-- 💞️ I’m looking to collaborate on creating ***8degrees***
-- 📫 How to reach me [jkim.dev@icloud.com](jkim.dev@icloud.com)
+- 👋 ʜɪ, ɪ’ᴍ **ᴊᴀᴇᴍɪɴ ᴋɪᴍ**
+- 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ **ꜱᴡɪꜰᴛᴜɪ**
+- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴋᴛᴏʀ**
+- 💞️ ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ᴄʀᴇᴀᴛɪɴɢ ***8ᴅᴇɢʀᴇᴇꜱ***
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [ᴊᴋɪᴍ.ᴅᴇᴠ@ɪᴄʟᴏᴜᴅ.ᴄᴏᴍ](ᴊᴋɪᴍ.ᴅᴇᴠ@ɪᴄʟᴏᴜᴅ.ᴄᴏᴍ)
 
 </br>
 
@@ -24,9 +24,6 @@
 
 **📂 REPOSITORY**
 
-<table style="border: none;">
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkimdev&layout=compact"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jkimdev&show_icons=true&theme=jolly"/></td>
-  </tr>
-</table>
+Top Languages             |  Repo Status
+:-------------------------:|:-------------------------:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkimdev&layout=compact"/>|<img src="https://github-readme-stats.vercel.app/api?username=jkimdev&show_icons=true&theme=jolly"/>
