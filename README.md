@@ -1,3 +1,9 @@
+<style>
+table, th, td {
+    border: none;
+}
+</style>
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hire%20me!&fontSize=90)
 
 <div align=left> 
