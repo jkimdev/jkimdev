@@ -1,3 +1,9 @@
+<style>
+table, th, td {
+    border: none;
+}
+</style>
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hire%20me!&fontSize=90)
 
 <div align=left> 
@@ -24,10 +30,9 @@
 
 **📂 REPOSITORY**
 
-<table>
+<table style="border: none;">
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkimdev&layout=compact"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jkimdev&show_icons=true&theme=jolly"/></td>
   </tr>
 </table>
-<table>
