@@ -24,14 +24,14 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
-<br>
+</br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkimdev&layout=compact"/>
 
-<br>
+</br>
 
 **📂 REPOSITORY**
 
-<img  src="https://github-readme-stats.vercel.app/api?username=jkimdev&show_icons=true&theme=jolly"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jkimdev&show_icons=true&theme=jolly"/>
 
 </div>
