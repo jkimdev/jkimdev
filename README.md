@@ -11,7 +11,7 @@
 
 <!-- ─── TYPING EFFECT ─── -->
 <a href="https://github.com/jkimdev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&height=55&lines=iOS++Backend developer+with+a+backend+habit.;I+ship+SwiftUI+apps+%E2%80%94+and+the+API+they+talk+to.;Currently+leveling+up+in+game+dev.;DOBBY+IS+FREE!" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&height=55&lines=iOS+Backend developer+with+a+backend+habit.;I+ship+SwiftUI+apps+%E2%80%94+and+the+API+they+talk+to.;Currently+leveling+up+in+game+dev.;DOBBY+IS+FREE!" alt="typing" />
 </a>
 
 <br/>
