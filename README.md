@@ -32,3 +32,9 @@ I build the **SwiftUI** app *and* the **Kotlin/Spring** backend it talks to. I
 like owning a feature end to end: from the button someone taps to the query that
 answers it.
 <br/>
+
+## 🚀   What I'm building
+
+Smart-parking IoT system  ·  current focus — low-power parking-bay occupancy sensors that communicate with a LoRa gateway to stream real-time stall availability. Hardware, firmware, and the data pipeline behind it.
+<br/>
+
