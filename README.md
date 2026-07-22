@@ -17,7 +17,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Based_in-Jeju,_KR-7aa2f7?style=flat-square&logo=apple&logoColor=white" alt="location" />
-<img src="https://img.shields.io/badge/Open_to-collab_on_8degrees-bb9af7?style=flat-square" alt="open to" />
 <img src="https://komarev.com/ghpvc/?username=jkimdev&style=flat-square&color=7aa2f7&label=profile+views" alt="views" />
 
 </div>
