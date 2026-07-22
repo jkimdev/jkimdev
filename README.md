@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ─── HEADER BANNER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=200&section=header&text=Jaemin%20Kim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=App%20%C2%B7Backend Developer&descSize=18&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=200&section=header&text=Jaemin%20Kim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20%C2%B7Backend%20Developer&descSize=18&descAlignY=60" />
 
 <!-- ─── TYPING EFFECT ─── -->
 <a href="https://github.com/jkimdev">
