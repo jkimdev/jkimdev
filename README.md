@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ─── HEADER BANNER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=200&section=header&text=Jaemin%20Kim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%C2%B7%20SwiftUI%20%C2%B7%20Kotlin%20Backend&descSize=18&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=200&section=header&text=Jaemin%20Kim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%C2%B7%20SwiftUI%20%C2%B7%20Spring%20Backend&descSize=18&descAlignY=60" />
 
 <!-- ─── TYPING EFFECT ─── -->
 <a href="https://github.com/jkimdev">
@@ -28,7 +28,7 @@
 ## 👋 &nbsp; About
 
 I'm an iOS developer on **Jeju Island** who never quite stayed in one lane —
-I build the **SwiftUI** app *and* the **Kotlin/Spring** backend it talks to. I
+I build the **SwiftUI** app *and* the **Spring** backend it talks to. I
 like owning a feature end to end: from the button someone taps to the query that
 answers it.
 <br/>
