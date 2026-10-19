@@ -27,7 +27,7 @@
 
 ## 👋 &nbsp; About
 
-I'm an Backend developer on **Jeju Island** who never quite stayed in one lane — I
+I'm a Backend developer on **Jeju Island** who never quite stayed in one lane — I
 like owning a feature end to end: from the button someone taps to the query that
 answers it.
 <br/>
