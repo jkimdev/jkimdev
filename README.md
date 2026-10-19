@@ -27,8 +27,7 @@
 
 ## 👋 &nbsp; About
 
-I'm an iOS developer on **Jeju Island** who never quite stayed in one lane —
-I build the **SwiftUI** app *and* the **Spring** backend it talks to. I
+I'm an Backend developer on **Jeju Island** who never quite stayed in one lane — I
 like owning a feature end to end: from the button someone taps to the query that
 answers it.
 <br/>
