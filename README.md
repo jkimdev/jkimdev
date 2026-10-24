@@ -9,11 +9,6 @@
 <!-- ─── HEADER BANNER ─── -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=200&section=header&text=Jaemin%20Kim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=App%20%C2%B7Backend%20Developer&descSize=18&descAlignY=60" />
 
-<!-- ─── TYPING EFFECT ─── -->
-<a href="https://github.com/jkimdev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&height=55&lines=I+ship+mobile+apps+%E2%80%94+and+the+API+they+talk+to.;" alt="typing" />
-</a>
-
 <br/>
 
 <img src="https://img.shields.io/badge/Based_in-Jeju,_KR-7aa2f7?style=flat-square&logo=apple&logoColor=white" alt="location" />
@@ -36,4 +31,13 @@ answers it.
 
 Smart-parking IoT system  ·  current focus — low-power parking-bay occupancy sensors that communicate with a LoRa gateway to stream real-time stall availability. Hardware, firmware, and the data pipeline behind it.
 <br/>
+
+## 🌱 Open Source Contributions
+
+| Project | Contribution | PR |
+|---|---|---|
+| [tw93/Mole]([https://github.com/facebook/react](https://github.com/tw93/Mole)) | safety-related changes | [#1835](https://github.com/tw93/Mole/pull/1835) |
+| [pointfreeco/swift-composable-architecture]([https://github.com/pointfreeco/swift-composable-architecture]) | code convention | [#2454](https://github.com/pointfreeco/swift-composable-architecture/pull/2454) |
+| [weitieda/bottom-sheet]([https://github.com/weitieda/bottom-sheet]) | feature | [#24](https://github.com/weitieda/bottom-sheet/pull/24) |
+
 
